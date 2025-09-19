@@ -26,7 +26,7 @@ foreach ($datos as $clave => $valor) {
         $impar = false;
     }
 
-    echo "La suma de las claves hasta ahora es: $suma";
+    echo "La suma hasta ahora es: $suma";
 
     if ($suma > 20) {
         echo "El valor de la suma es mayor que 20";
