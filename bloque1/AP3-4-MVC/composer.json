@@ -1,0 +1,10 @@
+{
+  "name": "ap3-4/mvc-app",
+  "description": "",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}

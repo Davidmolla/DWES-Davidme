@@ -1,0 +1,22 @@
+{
+  "/": {
+    "controller": "App\\Controllers\\TareasController",
+    "action": "index"
+  },
+  "/detalle": {
+    "controller": "App\\Controllers\\TareasController",
+    "action": "detalle"
+  },
+  "/addTask": {
+    "controller": "App\\Controllers\\TareasController",
+    "action": "addTask"
+  },
+  "/saveTask": {
+    "controller": "App\\Controllers\\TareasController",
+    "action": "saveTask"
+  },
+  "/deleteTask": {
+    "controller": "App\\Controllers\\TareasController",
+    "action": "deleteTask"
+  }
+}
